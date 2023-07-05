@@ -1,4 +1,6 @@
-# Three.js Journey
+# Galaxy Generator
+
+## Practice with particles
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
